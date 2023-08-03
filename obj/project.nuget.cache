@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OYJeYiGTuU0ssSp5ZLLEDDhFiU4H6BpMxIwMaOwbQ5KgAljnN9VUms8GnuTI6fXZArfM7EdC55d93q9XeOC9/w==",
+  "dgSpecHash": "E7Ev01N21b6wJmkOfJXShP2+BaSqT8hXIdmtO8iWGP5RIyYzya/pV2T9aS3mVadygaLVLY5d5Tu+TpVI+8RNHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iagor\\Desktop\\Estudos\\C#\\WebAppIdentity3\\WebAppIdentity.csproj",
+  "projectFilePath": "C:\\Users\\iagor\\OneDrive\\Área de Trabalho\\code\\Csharp\\webidentity\\WebAppIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iagor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\iagor\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

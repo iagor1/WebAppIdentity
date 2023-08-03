@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iagor\\Desktop\\Estudos\\C#\\WebAppIdentity3\\WebAppIdentity.csproj": {}
+    "C:\\Users\\iagor\\OneDrive\\Área de Trabalho\\code\\Csharp\\webidentity\\WebAppIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iagor\\Desktop\\Estudos\\C#\\WebAppIdentity3\\WebAppIdentity.csproj": {
+    "C:\\Users\\iagor\\OneDrive\\Área de Trabalho\\code\\Csharp\\webidentity\\WebAppIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iagor\\Desktop\\Estudos\\C#\\WebAppIdentity3\\WebAppIdentity.csproj",
+        "projectUniqueName": "C:\\Users\\iagor\\OneDrive\\Área de Trabalho\\code\\Csharp\\webidentity\\WebAppIdentity.csproj",
         "projectName": "WebAppIdentity",
-        "projectPath": "C:\\Users\\iagor\\Desktop\\Estudos\\C#\\WebAppIdentity3\\WebAppIdentity.csproj",
+        "projectPath": "C:\\Users\\iagor\\OneDrive\\Área de Trabalho\\code\\Csharp\\webidentity\\WebAppIdentity.csproj",
         "packagesPath": "C:\\Users\\iagor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iagor\\Desktop\\Estudos\\C#\\WebAppIdentity3\\obj\\",
+        "outputPath": "C:\\Users\\iagor\\OneDrive\\Área de Trabalho\\code\\Csharp\\webidentity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\iagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -92,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
